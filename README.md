@@ -7,7 +7,7 @@ PowerShell **5.0** (or greater) installed on the host machine. Click [here](http
 on how to get the latest version for your computer. 
 
 # Usage
-1. Download the script package.
+1. [Download](https://github.com/TeamsClientTools/TeamsDataCollector/releases/latest/download/TeamsDataCollector.zip) the script package.
 2. Extract it onto the computer experiancing Teams issues.
 3. Run the CollectTeamsClientData.ps1 script.
 4. Once the script is complete, it should produce a ZIP file in the same folder as the script.
