@@ -1,6 +1,10 @@
 # Introduction
 The Microsoft Teams Data Collector is a PowerShell script useful for easily collecting and packaging various data for troubleshooting Microsoft Teams issues.
+
 This tool does not transmit or share the data collected, it simply produces a ZIP file containing the data.
+
+[![Version](https://img.shields.io/github/v/release/TeamsClientTools/TeamsDataCollector?label=latest%20version)](https://github.com/TeamsClientTools/TeamsDataCollector/releases/latest/download/TeamsDataCollector.zip)
+[![Downloads](https://img.shields.io/github/downloads/TeamsClientTools/TeamsDataCollector/total)](https://github.com/TeamsClientTools/TeamsDataCollector/releases/latest/download/TeamsDataCollector.zip)
 
 # Getting Started
 PowerShell **5.0** (or greater) installed on the host machine. Click [here](https://github.com/powershell/powershell) for details
@@ -8,7 +12,7 @@ on how to get the latest version for your computer.
 
 # Usage
 1. [Download](https://github.com/TeamsClientTools/TeamsDataCollector/releases/latest/download/TeamsDataCollector.zip) the script package.
-2. Extract it onto the computer experiancing Teams issues.
+2. Extract it on to the computer experiencing Teams issues.
 3. Run the CollectTeamsClientData.ps1 script.
 4. Once the script is complete, it should produce a ZIP file in the same folder as the script.
 
