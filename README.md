@@ -7,12 +7,13 @@ PowerShell **5.0** (or greater) installed on the host machine. Click [here](http
 on how to get the latest version for your computer. 
 
 # Usage
-Download the script package.
-Extract it onto the computer experiancing Teams issues.
-Run the CollectTeamsClientData.ps1 script.
-Once the script is complete, it should produce a ZIP file in the same folder as the script.
+1. Download the script package.
+2. Extract it onto the computer experiancing Teams issues.
+3. Run the CollectTeamsClientData.ps1 script.
+4. Once the script is complete, it should produce a ZIP file in the same folder as the script.
 
 # Advanced Usage
+```
 CollectTeamsClientData.ps1 [-Help]
 
 CollectTeamsClientData.ps1 [[-Destination] <path>] [[-Scenario] <scenario name>]
@@ -24,7 +25,7 @@ CollectTeamsClientData.ps1 [[-Destination] <path>] [[-Scenario] <scenario name>]
 
   -Scenario   : Provides the scenario name to collect.
                 If one is not provided, it will default to "All".
-                
+```                
 # Data Collected
 The script collects various files, registry keys, and enumerates various directories.
 It will list each file and registry key that it collects, and each directory it enumerates.
