@@ -68,4 +68,5 @@ The script does NOT collect passwords or any other credential information.
 The ZIP file produced by the script can be opened and its contents reviewed.
 
 # Example
-![ExampleRun](https://user-images.githubusercontent.com/79993173/109885535-a571f600-7c4c-11eb-95a0-cbe8b4cd88a1.png)
+![ExampleRun](https://user-images.githubusercontent.com/79993173/109887130-377afe00-7c4f-11eb-92c4-a04daa9ae23b.png)
+
