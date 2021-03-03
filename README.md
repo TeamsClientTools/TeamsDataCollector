@@ -7,7 +7,7 @@ This tool does not transmit or share the data collected, it simply produces a ZI
 [![Downloads](https://img.shields.io/github/downloads/TeamsClientTools/TeamsDataCollector/total)](https://github.com/TeamsClientTools/TeamsDataCollector/releases/latest/download/TeamsDataCollector.zip)
 
 # Getting Started
-PowerShell **5.0** (or greater) installed on the host machine. Click [here](https://github.com/powershell/powershell) for details
+PowerShell **5.0** (or greater) must be installed on the host machine. Click [here](https://github.com/powershell/powershell) for details
 on how to get the latest version for your computer. 
 
 # Usage
