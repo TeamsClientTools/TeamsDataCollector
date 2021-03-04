@@ -1,6 +1,6 @@
 
 # Introduction
-The Microsoft Teams Data Collector is a PowerShell script useful for easily collecting and packaging various data for troubleshooting Microsoft Teams issues.
+The Microsoft Teams Data Collector is a PowerShell script useful for easily collecting and packaging various data for troubleshooting Microsoft Teams desktop client issues on Windows.
 
 This tool does not transmit or share the data collected, it simply produces a ZIP file containing the data.
 
